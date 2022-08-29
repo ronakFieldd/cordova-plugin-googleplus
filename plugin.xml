@@ -109,7 +109,7 @@
         <source url="https://cdn.cocoapods.org/"/>
       </config>
       <pods use-frameworks="true">
-        <pod name="GoogleSignIn" spec="$IOS_GOOGLESIGNIN_VERSION"/>
+        <!-- <pod name="GoogleSignIn" spec="$IOS_GOOGLESIGNIN_VERSION"/> -->
         <pod name="GoogleUtilities" spec="$IOS_GOOGLEUTILITIES_VERSION"/>
       </pods>
     </podspec>
