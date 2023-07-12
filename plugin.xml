@@ -52,8 +52,8 @@
 
   <!-- ios -->
   <platform name="ios">
-	<preference name="IOS_GOOGLEUTILITIES_VERSION" default="~> 7.11.1"/>
-	  <preference name="IOS_GOOGLESIGNIN_VERSION" default="6.2.4"/>
+	<preference name="IOS_GOOGLEUTILITIES_VERSION" default="~> 6.7"/>
+	  <preference name="IOS_GOOGLESIGNIN_VERSION" default="~> 5.0.2"/>
 
     <config-file target="config.xml" parent="/*">
       <feature name="GooglePlus">
